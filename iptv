@@ -1,0 +1,50 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 1
+http://rv.therevenge.co:80/477846155654/477846155654/78719?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 1 FHD FR
+http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/38794.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 1 HD
+http://rv.therevenge.co:80/477846155654/477846155654/79038?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 1 HD
+http://rv.therevenge.co:80/477846155654/477846155654/78380?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 1 HD FR
+http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/1729.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 2
+http://rv.therevenge.co:80/477846155654/477846155654/78718?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 2 HD
+http://rv.therevenge.co:80/477846155654/477846155654/79037?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 2 HD
+http://rv.therevenge.co:80/477846155654/477846155654/78379?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 3
+http://rv.therevenge.co:80/477846155654/477846155654/78717?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 3 HD
+http://rv.therevenge.co:80/477846155654/477846155654/78378?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 4
+http://rv.therevenge.co:80/477846155654/477846155654/78716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 4 HD
+http://rv.therevenge.co:80/477846155654/477846155654/78377?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 4 HD
+http://rv.therevenge.co:80/477846155654/477846155654/79035?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT LIVE 10 HD
+http://rv.therevenge.co:80/477846155654/477846155654/78371?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 1
+http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/78725?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 1
+http://rv.therevenge.co:80/477846155654/477846155654/78725?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 2
+http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/78724?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 2
+http://rv.therevenge.co:80/477846155654/477846155654/78724?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 2 FHD
+http://31.220.40.44:80/Ung_debernardi123/mag322/127628?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 2 HD
+http://rv.therevenge.co:80/477846155654/477846155654/78392?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 2 HD
+http://rv.therevenge.co:80/477846155654/477846155654/79043?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 3
+http://rv.therevenge.co:80/477846155654/477846155654/78723?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 3 HD
+http://rv.therevenge.co:80/477846155654/477846155654/78391?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 3 HD
+http://rv.therevenge.co:80/477846155654/477846155654/79042?checkedby:hlscat.com
